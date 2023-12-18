@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\deneme79\deneme79\bin\Debug\deneme79.exe.config
+C:\Users\legen\source\repos\deneme79\deneme79\bin\Debug\deneme79.exe
+C:\Users\legen\source\repos\deneme79\deneme79\bin\Debug\deneme79.pdb
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.Form1.resources
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.Properties.Resources.resources
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.exe
+C:\Users\legen\source\repos\deneme79\deneme79\obj\Debug\deneme79.pdb
